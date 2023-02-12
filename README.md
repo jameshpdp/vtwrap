@@ -24,7 +24,7 @@ vtwrap [-s] [-t тип]
 
 After starting the program, a copy of the shell is launched from which you can work already as with VT52.
 
-Note: Original *BSD make file kept as Makefile.bsd, added GNU Makefile
+Disclaimer: publishing this code to keep it available since it is no longer available from the original location.
 
 ## Original README
 
